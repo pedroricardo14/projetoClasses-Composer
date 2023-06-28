@@ -1,3 +1,8 @@
 <?php
+require('lib.php');
 
-phpinfo();
+function teste() {
+    echo 'OI INDEX';
+}
+teste();
+//\LIB\teste();
